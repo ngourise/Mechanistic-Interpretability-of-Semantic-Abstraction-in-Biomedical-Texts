@@ -1,5 +1,8 @@
 # Mechanistic Interpretability of Semantic Abstraction in Biomedical Texts
-This repository is the official implementation of Mechanistic Interpretability of Semantic Abstraction in Biomedical Texts.
+This repository is the official implementation of Mechanistic Interpretability of Semantic Abstraction in Biomedical Texts. 
+
+## Published Paper
+https://openreview.net/forum?id=r0rhvIa42t&referrer=%5Bthe%20profile%20of%20Nikhil%20Gourisetty%5D(%2Fprofile%3Fid%3D~Nikhil_Gourisetty1)
 
 ## Requirements
 
